@@ -59,9 +59,9 @@
     <string name="playlists_menu" msgid="5382792649771928849">"የጨዋታዝርዝሮች"</string>
     <string name="playlists_title" msgid="5094238486322957927">"የጨዋታዝርዝሮች"</string>
     <string name="videos_title" msgid="2066741954354129115">"ቪዲዮዎች"</string>
-    <string name="all_title" msgid="6880186414437237653">"ሁሉም ማህደረመረጃ"</string>
+    <string name="all_title" msgid="6880186414437237653">"ሁሉም  ማህደረ መረጃ"</string>
     <string name="browse_menu" msgid="5248122473075843289">"አርቲስቶች"</string>
-    <string name="search_title" msgid="1016971653383739344">" ፈልግ"</string>
+    <string name="search_title" msgid="1016971653383739344">"ፍለጋ"</string>
     <string name="no_tracks_title" msgid="8805805388271238471">"ምንም ዘፈኖች የሉም"</string>
     <string name="no_videos_title" msgid="6218814130364793104">"ምንም ቪዲዮዎች የሉም"</string>
     <string name="no_playlists_title" msgid="4456351945617594418">"ምንም ጨዋታዝርዝሮች የሉም"</string>
@@ -135,7 +135,7 @@
     <string name="videobrowserlabel" msgid="8522326678447494657">"ቪዲዮዎች"</string>
     <string name="mediapickerlabel" msgid="4549836003229914299">"ሙዚቃ"</string>
     <string name="playback_failed" msgid="3811851150820251398">"ይቅርታ፣ ማጫወቻው የዚህ አይነት የኦዲዮ ፋይል አይደግፍም።"</string>
-    <string name="cancel" msgid="886559484711947520">"ይቅር"</string>
+    <string name="cancel" msgid="886559484711947520">"ሰርዝ"</string>
     <string name="remove_from_playlist" msgid="2548577514849026354">"ከጨዋታዝርዝር አስወግድ"</string>
     <string name="streamloadingtext" msgid="8842426517396356215">"ወደ<xliff:g id="HOST">%s</xliff:g> በማገናኘት ላይ"</string>
     <string name="mediasearch" msgid="959222971261132292">" ለ<xliff:g id="TERM">%s</xliff:g> በመጠቀም ፈልግ"</string>
